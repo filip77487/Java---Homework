@@ -1,5 +1,7 @@
 package dayThree;
 
+import dayThree.Eartling;
+
 public class Eartling {
 	private String color = "white";
 	private int age;
@@ -77,4 +79,3 @@ public class Eartling {
 	 }
 
 }
-

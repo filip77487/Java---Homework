@@ -1,7 +1,6 @@
 package dayThree;
 
 public class Fildzan {
-
 	String colorofFildzan;
 	int size;
 	String n;
@@ -17,7 +16,4 @@ public class Fildzan {
 		return this.n + " is drinking coffee from Fildzan";
 		
 	}
-	
-	
-	
 }

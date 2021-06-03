@@ -1,9 +1,9 @@
 package dayThree;
 
+
 public class TestFildzan {
 
 	public static void main(String[] args) {
-	
 		String colorofFildzan = new String("red");
 		int size = 10;
 		
@@ -14,6 +14,7 @@ public class TestFildzan {
 		System.out.println(strl);
 		
 	}
-	
+
 	}
+
 

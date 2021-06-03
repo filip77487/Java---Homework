@@ -3,7 +3,6 @@ package dayThree;
 public class TestFemale {
 
 	public static void main(String[] args) {
-
 //		Male m1 = new Male();
 //		System.out.println(m1);
 //		m1 = new Male();
@@ -21,11 +20,6 @@ public class TestFemale {
 		String strl = f3.drive();
 		System.out.println(strl);
 		Female f4 = f3.createNewFemaleObject("green");
-		
-		
-		
-		
-		
-		
-}
+	}
+
 }

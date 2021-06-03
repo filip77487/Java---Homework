@@ -1,5 +1,6 @@
 package dayThree;
 
+
 public class Male {
 	String colorofHair;
 	int weight;
@@ -26,4 +27,5 @@ public class Male {
 		return m1;
 				
 	}
+
 }

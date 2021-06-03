@@ -40,4 +40,7 @@ public class testHuman {
 //		double result5 = eartling1.eat();
 		
 	}
-}
+
+	}
+
+

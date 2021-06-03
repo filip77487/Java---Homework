@@ -3,8 +3,7 @@ package dayThree;
 public class TestMale {
 
 	public static void main(String[] args) {
-	
-		
+
 		String coh = new String("green");
 		int weight = 70;
 		
@@ -20,8 +19,6 @@ public class TestMale {
 		
 		
 		}
-		
-		
 
 	}
 

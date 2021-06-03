@@ -28,9 +28,5 @@ public class Female {
 		return f1;
 	}
 	
-	}
 
-
-
-
-
+}
